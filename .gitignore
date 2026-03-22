@@ -1,1 +1,14 @@
+# CubeIDE generated files
+Debug/
+Release/
+*.sua
+*.cproject
+*.launch
 
+# Object files
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.list
