@@ -2,8 +2,8 @@
 
 A real-time embedded system that receives Discord messages over Ethernet and displays them on a 16x2 I2C LCD. Built on the STM32F767ZI (Cortex-M7) using FreeRTOS and the LwIP TCP/IP stack.
 
-## Demo
-*Demo video coming soon*
+## Demo Video
+(https://youtu.be/k93oJPZBbxA)
 
 ## System Architecture
 
